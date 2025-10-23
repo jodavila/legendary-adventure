@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time Greeting</string>
+    <string name="button_text">Mostrar Mensagem</string>
+    <string name="morning_message">Bom dia! ☀️</string>
+    <string name="afternoon_message">Boa tarde! 🌤️</string>
+    <string name="evening_message">Boa noite! 🌙</string>
+    <string name="night_message">Boa madrugada! ⭐</string>
+    <string name="dialog_title">Mensagem do Dia</string>
+    <string name="dialog_button_ok">OK</string>
+</resources>
