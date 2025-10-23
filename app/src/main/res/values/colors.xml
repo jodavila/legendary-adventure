@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pastel Colors -->
+    <color name="pastel_pink">#FFB3BA</color>
+    <color name="pastel_peach">#FFDFBA</color>
+    <color name="pastel_yellow">#FFFFBA</color>
+    <color name="pastel_mint">#BAFFC9</color>
+    <color name="pastel_blue">#BAE1FF</color>
+    <color name="pastel_lavender">#E0BBE4</color>
+    
+    <color name="primary">#BAE1FF</color>
+    <color name="primary_dark">#A8D5F2</color>
+    <color name="accent">#FFB3BA</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_color">#5A5A5A</color>
+</resources>
